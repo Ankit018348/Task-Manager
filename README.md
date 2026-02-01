@@ -34,13 +34,13 @@ Deployment
 📸 Screenshots  
 
 Login / Register  
-![login](./login.png)
+![login](./screenshots/login.png)
 
 Dashboard  
-![register](./register.png)
+![register](./screenshots/register.png)
 
 Task Completion & Progress  
-![task](./task.png)
+![task](./screenshots/task.png)
 
 --------------------------
 🚀 Getting Started  
