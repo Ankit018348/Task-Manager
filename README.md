@@ -33,10 +33,10 @@ Deployment
 
 📸 Screenshots  
 
-Login / Register  
+Login 
 ![login](./screenshots/login.png)
 
-Dashboard  
+Register 
 ![register](./screenshots/register.png)
 
 Task Completion & Progress  
